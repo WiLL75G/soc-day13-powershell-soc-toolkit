@@ -1,4 +1,4 @@
-# Day 13 – SOC Tier 1 Incident Report: PowerShell SOC Investigation Toolkit
+# SOC Tier 1 Incident Report: PowerShell SOC Investigation Toolkit
 
 ---
 
