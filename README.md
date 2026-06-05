@@ -54,7 +54,7 @@ The output is structured, color coded, and designed for rapid triage during a li
 
 ---
 
-### 2. Module 1 — Top Process Enumeration
+### 2. Module 1 Top Process Enumeration
 
 ![Top Processes](./screenshots/02_top_processes.png)
 
@@ -70,7 +70,7 @@ The output is structured, color coded, and designed for rapid triage during a li
 
 ---
 
-### 3. Module 2 — Listening Port Discovery
+### 3. Module 2 Listening Port Discovery
 
 ![Listening Ports](./screenshots/03_listening_ports.png)
 
@@ -86,7 +86,7 @@ The output is structured, color coded, and designed for rapid triage during a li
 
 ---
 
-### 4. Module 4 — Recently Modified Files
+### 4. Module 4 Recently Modified Files
 
 ![Recently Modified Files](./screenshots/04_recently_modified_files.png)
 
@@ -102,7 +102,7 @@ The output is structured, color coded, and designed for rapid triage during a li
 
 ---
 
-### 5. Module 5 — Authentication Log Review
+### 5. Module 5 Authentication Log Review
 
 ![Auth Log Check](./screenshots/05_auth_log_check.png)
 
@@ -118,7 +118,7 @@ The output is structured, color coded, and designed for rapid triage during a li
 
 ---
 
-### 6. Toolkit Output — Consolidated View (Part 1)
+### 6. Toolkit Output Consolidated View (Part 1)
 
 ![Toolkit Output 1](./screenshots/06_toolkit_output_p1.png)
 
@@ -134,7 +134,7 @@ The output is structured, color coded, and designed for rapid triage during a li
 
 ---
 
-### 7. Toolkit Output — Final Section & Completion (Part 2)
+### 7. Toolkit Output Final Section & Completion (Part 2)
 
 ![Toolkit Output 2](./screenshots/07_toolkit_output_p2.png)
 
